@@ -97,7 +97,6 @@
         font-weight: 700;
     }
   
-
     .box_monthy button{
         width: 240px;
         padding: 12px 0 12px 0;
@@ -139,8 +138,6 @@
         list-style-type: none;
     }
      
-
-
     /*responsivo*/
 
     @media only screen and (min-width: 320px) and (max-width: 767px)  {
@@ -175,10 +172,9 @@
             width: 100%;            
             padding-top: 10px; 
             padding-bottom: 30px;         
-            border-radius: 0 0 15px 15px;             
+            border-radius: 0 0 15px 15px;            
                  
-        }
-       
+        }       
  
      }
 
